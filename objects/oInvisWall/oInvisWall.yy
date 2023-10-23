@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oInvisWall",
-  "spriteId": null,
+  "spriteId": {
+    "name": "sInvisWall",
+    "path": "sprites/sInvisWall/sInvisWall.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
